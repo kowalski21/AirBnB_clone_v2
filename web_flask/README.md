@@ -1,0 +1,1 @@
+Creating a flask project to render html pages
